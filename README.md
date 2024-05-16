@@ -16,4 +16,4 @@ Eu sou Maria A, uma (futura) dev dedicada a resolver problemas complexos com sol
 ![Assembly](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
 
 ## Contato
-- LinkedIn: [Mariah](https://linkedin.com/in/mariaabg)
+LinkedIn: [Mariah](https://linkedin.com/in/mariaabg)
