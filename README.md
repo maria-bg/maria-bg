@@ -2,7 +2,7 @@
 
 # Oi! Bem-vindo ao meu perfil!
 
-![Header](https://ps.w.org/header-footer-code-manager/assets/banner-1544x500.png?rev=2681303)
+![Header](https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg)
 
 Eu sou Maria A, uma (futura) dev dedicada a resolver problemas complexos com soluções criativas e eficientes.
 
