@@ -1,3 +1,4 @@
+<div align="center">
 # Oi! Bem-vindo ao meu perfil!
 
 ![Header](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FGayasuddinMohd&psig=AOvVaw2cMUxWXHZblfl4eRetmxSh&ust=1715982199317000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDFrv6Rk4YDFQAAAAAdAAAAABAE)
