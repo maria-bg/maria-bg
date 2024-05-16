@@ -23,6 +23,3 @@ Eu sou Maria A, uma (futura) dev dedicada a resolver problemas complexos com sol
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-## Contato
-LinkedIn: [Mariah](https://linkedin.com/in/mariaabg)
