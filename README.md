@@ -1,7 +1,8 @@
 <div align="center">
+
 # Oi! Bem-vindo ao meu perfil!
 
-![Header](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FGayasuddinMohd&psig=AOvVaw2cMUxWXHZblfl4eRetmxSh&ust=1715982199317000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDFrv6Rk4YDFQAAAAAdAAAAABAE)
+![Header](https://ps.w.org/header-footer-code-manager/assets/banner-1544x500.png?rev=2681303)
 
 Eu sou Maria A, uma (futura) dev dedicada a resolver problemas complexos com soluções criativas e eficientes.
 
