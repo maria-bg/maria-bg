@@ -1,4 +1,4 @@
-<div align="center" margin="0 30px">
+<div align="center">
 
 # Oi! Bem-vindo ao meu perfil!
 
